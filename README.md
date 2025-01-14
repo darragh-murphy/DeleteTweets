@@ -1,6 +1,6 @@
 # Delete Past Tweets
 
-Requires elevated privilage
+Requires elevated privilege
 
 - brew install python@3.12
 - /opt/homebrew/Cellar/python@3.12/3.12.8/bin/python3.12 -m venv myenv1
